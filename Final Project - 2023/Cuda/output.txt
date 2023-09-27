@@ -1,0 +1,5 @@
+Picture 1: No three different Objects were found  
+Picture 2: found Objects: 1 Position(20,20) ; 3 Position(70,70) ; 7 Position(100,100) 
+Picture 3: No three different Objects were found  
+Picture 4: No three different Objects were found  
+Picture 5: No three different Objects were found  

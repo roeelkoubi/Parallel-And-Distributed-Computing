@@ -1,4 +1,4 @@
-Introduction: The project is designed to calculate the matching between Objects and Pictures. It deals with a set of Pictures and Objects of different sizes. 
+The project is designed to calculate the matching between Objects and Pictures. It deals with a set of Pictures and Objects of different sizes. 
 Each member of the matrix represents a "color," and the range of possible colors is [1, 100]. 
 For each pair of overlapping members, the difference is calculated, and the total difference is defined as an average of all relative differences for all overlapping members. 
 We will call it Matching (I, J).
